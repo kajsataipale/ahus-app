@@ -23,7 +23,7 @@ A Progressive Web App made for Akademiska Hus, using [firebase](https://firebase
 
 ### Developers:   
 [Kajsa Taipale](https://github.com/kajsataipale)  
-[Oskar Järviniemi](https://github.com/oskarjarvi)  
+
 
 ### Designers:
 Robin Håkansson <br/>
